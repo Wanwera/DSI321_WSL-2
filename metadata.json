@@ -1,0 +1,23 @@
+{
+  "name": "weather_wsl02",
+  "title": "WEATHER_WSL02",
+  "notes": "ข้อมูลดัชนีคุณภาพอากาศในประเทศไทย ที่มีการอัพเดตข้อมูลทุกๆ 6 ชั่วโมง",
+  "data_type": "ข้อมูลสถิติ",
+  "owner_org": "tu", 
+  "data_source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlEs3FxFPwm-dpvU1YdsfRgsbfT9WdiXJHZm9kJgGTziPnk-y3TWtftbSbxj6Fe_g0NxYgqyVHTVU5/pubhtml?gid=1397577608&amp;single=true&amp;widget=true&amp;headers=false",
+  "maintainer": "Wanwera Yaembangyang",
+  "update_frequency_unit": "ชั่วโมง",
+  "update_frequency_interval": "6",
+  "data_format": [
+    "CSV"
+  ],
+  "maintainer_email": "wanwera.yae@dome.tu.ac.th",
+  "objective": [
+    "ยุทธศาสตร์ชาติ",
+    "แผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ",
+    "เพื่อการให้บริการประชาชน"
+  ],
+  "data_category": "ข้อมูลสาธารณะ",
+  "geo_coverage": "ประเทศ",
+  "license_id": "License not specified"
+}
